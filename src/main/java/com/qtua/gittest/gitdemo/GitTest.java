@@ -17,6 +17,10 @@ public class GitTest {
         System.out.println("i am dashauibi-->pull测试");
         System.out.println("再来测试一下push功能，vpn已关闭");
         System.out.println("再来测试一下pull功能，vpn已开启");
+
+
+        System.out.println("以下我开始用gitee进行操作");
+
         
     }
 }
